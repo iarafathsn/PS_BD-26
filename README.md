@@ -21,11 +21,11 @@ Please do not include personal information such as your employee ID, department,
 
 ### Privacy Policy
 
-https://github.com/iarafathsn/PayScaleBD-resource/blob/production/1.0/PRIVACY.md
+https://github.com/iarafathsn/PS_BD-26/blob/production/1.0/PRIVACY.md
 
 ### Support
 
-https://github.com/iarafathsn/PayScaleBD-resource/blob/production/1.0/SUPPORT.md
+https://github.com/iarafathsn/PS_BD-26/blob/production/1.0/SUPPORT.md
 
 These pages are publicly accessible and are used for the PayScaleBD App Store listing.
 
